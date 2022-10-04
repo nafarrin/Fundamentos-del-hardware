@@ -1,0 +1,11 @@
+#Realiza un programa con instrucciones de la máquina HW1 que lea dos datos por teclado y muestre por pantalla la suma.
+#La solución propuesta es
+
+  READ RA       //lectura del primer sumando por teclado y almacenado de su valor en el registro A
+  READ RB       //lectura del segundo sumando por teclado y almacenado de su valor en el registro B
+  MOVE ACC RA   //Colocamos el valor del primer sumando en el acumulador
+  SUMA ACC RB   //Sumamos el contenido del acumulador, primer sumando, con el contenido del registro B, segundo sumando
+  MOVE RB ACC   //Colocamos el resultado de la suma en el registro B
+  PRINT RB      //imprimimos por pantalla el resultado de la suma que tenemos almacenado en el registro B
+  
+  
