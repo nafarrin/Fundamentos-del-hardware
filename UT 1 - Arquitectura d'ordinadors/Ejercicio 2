@@ -1,0 +1,11 @@
+#Esta vez realiza un programa con instrucciones de la máquina HW1 que lea tres datos por teclado y muestre por pantalla la suma
+
+  READ RA
+  READ RB
+  READ RC
+  MOVE ACC RA
+  SUMA ACC RB   //Sumamos el contenido del acumulador, primer sumando, con el contenido del registro B, segundo sumando
+  SUMA ACC RC   //Sumamos el contenido del acumulador, primer sumando, con el contenido del registro B, segundo sumando
+  MOVE RC ACC   //Colocamos el resultado de la suma en el registro C
+  PRINT RC      //imprimimos por pantalla el resultado de la suma que tenemos almacenado en el registro C
+  
