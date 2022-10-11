@@ -1,0 +1,4 @@
+¿Qué diferencia existe entre la arquitectura ARM y la x86?
+La diferencia entre ARM y x86 es por la complejidad de su composición, mientras que el x86 es
+desarrollado a partir de una arquitectura más compleja, un procesador ARM está basado en RISC
+(Reduced Instruction Set Computer), tiene como objetivo ser más simple
