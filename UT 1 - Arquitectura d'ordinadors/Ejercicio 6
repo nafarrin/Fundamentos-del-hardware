@@ -1,0 +1,5 @@
+Imagina la siguiente instrucción de una máquina:
+Código de la operación (8 bits)   Dirección 1 (8 bits)  Dirección 2 (8 bits)
+¿Cuánta memoria podrá tener dicha máquina teniendo en cuenta que cada celda tiene 8 bits?
+
+Con una dirección de memoria de N bits, podrá tenerse un espacio de direcciones de 2N direcciones. Así pues, con una dirección de memoria de 8 bits tendremos 2 por 8 direcciones de memoria, 16.
