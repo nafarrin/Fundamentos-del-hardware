@@ -4,7 +4,7 @@
 #2  MOVE RA ACC   //Movemos el contador a un registro para que pueda ser mostrado por pantalla
 #3  MOVE ACC 10    //Cantidad de elementos a imprimir
 #4  MOVE RC 1     //Incremento a aplicar entre los elementos
-#4  MOVE RB ACC   //Los almacenaremos en RB 
+#4  MOVE RB ACC   //El límite superior lo almacenaremos en RB 
 #5                //Bucle
 #6  PRINT RA      //mostramos por pantalla el número
 #7  MOVE ACC RA   //
