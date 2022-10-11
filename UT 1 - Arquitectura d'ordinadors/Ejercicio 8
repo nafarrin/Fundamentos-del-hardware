@@ -1,0 +1,2 @@
+¿Por qué el acumulador de la ALU está conectada con el buffer de la misma?
+Se encuentra conectada ya que el resultado de muchas operaciones se deposita en el propio acumulador.
