@@ -1,0 +1,2 @@
+¿Sería posible prescindir de la memoria central en un equipo y trabajar solamente con el disco duro?
+De acuerdo con la arquitectura Von Neumann sería técnicamente posible, sin embargo la lentitud de acceder al disco duro para todo dilataría la ejecución de cualquier programa haciéndolo muy largo y difícil de seguir por un humano.
