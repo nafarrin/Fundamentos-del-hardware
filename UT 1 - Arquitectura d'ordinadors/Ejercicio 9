@@ -1,0 +1,2 @@
+¿Quién se encarga de decodificar las instrucciones en un sistema Von Neumann?
+La unidad de control, ya que se encarga de ir ejecutando, una a una las instrucciones. Decodificar la instrucción es parte de la ejecución.
