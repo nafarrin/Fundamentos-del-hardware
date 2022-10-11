@@ -1,8 +1,14 @@
 #Realiza un programa con instrucciones de la máquina HW1 que muestre por pantalla los números del 1 al 10
-
+                  //Incicialización
 #1  MOVE ACC 1    //Primer número 
 #2  MOVE RA ACC   //Movemos el contador a un registro para que pueda ser mostrado por pantalla
-#3  MOVE ACC 9    //Cantidad de elementos a imprimir
+#3  MOVE ACC 10    //Cantidad de elementos a imprimir
+#4  MOVE RC 1     //Incremento a aplicar entre los elementos
 #4  MOVE RB ACC   //Los almacenaremos en RB 
-#3  PRINT RA      //mostramos por pantalla
-#4 
+#5                //Bucle
+#6  PRINT RA      //mostramos por pantalla el número
+#7  MOVE ACC RA   //
+#8  SUMA ACC RC   //Incrementamos en 1
+#9  MOVE RA ACC   //Guardamos en el registro A el nuevo número de la serie
+#10 RESTA RB ACC  //Comprobamos si hemos llegado al limite supererio RB = 10 y el número de elementos que hemos mostrado
+#11 JMP SI NO CERO 6 //Seguimos mostrando números ya que no hemos alcanzado el límite superior
