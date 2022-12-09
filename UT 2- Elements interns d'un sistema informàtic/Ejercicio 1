@@ -13,6 +13,7 @@ Algunas placas base siguen incluyen los clásicos jumpers que permiten realizar 
 
 e) ¿Qué es un heat-pipe y cómo funciona?
 los caloductos, o también llamados heat pipes,son tuberías ( o tubo) de un material de alta conductividad que encierra en su interior un líquido con unas propiedades muy concretas.
+Estas propiedades hace que el líquido se evapora cerca del microprocesador y se vuelve a condensar cuando se enfría en otra zona del disipador.
 
 f) ¿Qué es el backside bus?
 El “bus trasero” se refiere a la conexión entre un microprocesador y su memoria cache externa, en particular y comúnmente la de segundo nivel o L2.
