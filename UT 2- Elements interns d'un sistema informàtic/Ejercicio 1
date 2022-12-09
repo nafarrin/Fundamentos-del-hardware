@@ -8,4 +8,10 @@ Es un chip que almacena la configuración de la BIOS.
 c) ¿Qué es factor multiplicador de un microprocesador?
 El multiplicador de CPU (o multiplicador de reloj o relación bus/núcleo) mide la relación entre el reloj de la CPU y el reloj externo.
 
-d) ¿Qué es el jimper CLRCMOS de la placa base?
+d) ¿Qué es el jumper CLRCMOS de la placa base?
+Algunas placas base siguen incluyen los clásicos jumpers que permiten realizar un Clear CMOS. El jumper está colocado de manera distinta por la placa, es decir, no está en el mismo sitio en todas. Lo ideal para no perder demasiado tiempo es irnos al manual de nuestro modelo y ver el diagrama de la placa para localizarlo fácilmente.
+
+e) ¿Qué es un heat-pipe y cómo funciona?
+los caloductos, o también llamados heat pipes,son tuberías ( o tubo) de un material de alta conductividad que encierra en su interior un líquido con unas propiedades muy concretas.
+
+f) ¿Qué es el backside bus?
