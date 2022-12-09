@@ -15,3 +15,10 @@ e) ¿Qué es un heat-pipe y cómo funciona?
 los caloductos, o también llamados heat pipes,son tuberías ( o tubo) de un material de alta conductividad que encierra en su interior un líquido con unas propiedades muy concretas.
 
 f) ¿Qué es el backside bus?
+El “bus trasero” se refiere a la conexión entre un microprocesador y su memoria cache externa, en particular y comúnmente la de segundo nivel o L2.
+
+g) ¿Cuál es la velocidad máxima teórica de un interfaz SATA III?
+ormalmente conocida como SATA 6 Gb/s, es la tercera generación de la interfaz SATA funcionando a 6.0 Gb/s. El rendimiento de ancho de banda, que es sopotado por la interfaz, es de hasta 600MB/s.
+
+h) ¿Qué es un disco SCSI?
+SCSI proviene de las siglas de («Small Computer System Interface«), su traducción es pequeña interfase de sistema para computadora. Es un estándar para dispositivos de alta velocidad que incluyen discos duros entre sus especificaciones.
