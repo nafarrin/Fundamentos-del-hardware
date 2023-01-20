@@ -1,0 +1,17 @@
+Calcula el gasto energético de los aparatos electrónicos de la empresa La Esteponense, S.A. que tiene los siguientes dispositivos:
+    ✔Router de fibra
+    ✔Switch
+    ✔Un servidor iMac pro con un monitor de 24 pulgadas
+    ✔Impresora multifuncional
+    ✔Dos iMac retina de 27 pulgadas
+    ✔Dos MacBook Pro de 15 pulgadas
+    
+Todos los equipos quedarán apagados tras la jornada laboral para evitar un consumo vampiro innecesario
+
+    ✔Router de fibra:                                     40 VA/h * 8 horas = 320  VA
+    ✔Switch:                                              40 VA/h * 8 horas = 320  VA
+    ✔Un servidor iMac pro con un monitor de 24 pulgadas: 230 VA/h * 8 horas = 1840 VA
+    ✔Impresora multifuncional:                            60 VA/h * 8 horas = 480  VA
+    ✔Dos iMac retina de 27 pulgadas:                     434 VA/h * 8 horas = 3472 VA
+    ✔Dos MacBook Pro de 15 pulgadas:                     108 VA/h * 8 horas = 854  VA
+                                        TOTAL                               = 7296 VA
