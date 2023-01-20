@@ -1,10 +1,10 @@
 Utilizando la calculadora de potencia de OuterVision, a la que puedes acceder a través de este enlace (www.extreme.outervision.com/PSUEngine), calcula:
 * La potencia consumida: 
--->144W
+-->87W
 * El coste energético al año: 
--->34,28€/año
+-->32,68€/año
 *Los vatios que debería tener la fuente de alimentación del equipo: 
--->500W
+-->137W
 * Los VA que debería tener el SAI que ofreciera protección a este equipo: 
 -->350VA
 
@@ -19,3 +19,5 @@ Un monitor LED 24 pulgadas
 Teclado
 Ratón
 Utilización diaria del equipo: 4 horas
+
+Solución completa: https://outervision.com/b/BCMujU
