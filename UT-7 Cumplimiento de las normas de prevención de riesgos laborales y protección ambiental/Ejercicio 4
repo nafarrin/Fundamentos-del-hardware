@@ -1,0 +1,8 @@
+Calcula el gasto total de los equipos electrónicos de tu clase durante un mes y expresa el resultado en kilovatios y en euros, teniendo en cuenta que el kilovatio cuesta 15 céntimos.
+
+Asumiremos que nuestra clase tiene 12 personas y que a cada una de ellas se les ha asignado un PC con las siguientes características https://outervision.com/b/H0o3ZA
+
+Nos arroja un resultado de 97,28 € por año ara un dispositivo, que multiplicado por el número de equipos (12) y dividido por el numero de meses que tiene un año (12) nos arroja el siguiente resultado:
+97,28 €
+
+(Nota: el resultado variará enormemente en función tanto de los alumnos como del tipo de equipo utilizado en el ejercicio)
