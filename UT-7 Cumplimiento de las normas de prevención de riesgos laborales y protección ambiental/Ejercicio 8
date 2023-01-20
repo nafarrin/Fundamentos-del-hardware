@@ -1,0 +1,3 @@
+El TDP de un procesador y su gasto energético. Explica qué es la potencia de diseño térmicoy cómo ajustarla para intentar reducir el consumo energético de un equipo.
+
+a potencia de diseño térmico es la cantidad máxima de calor que un procesador puede producir cuando se esta ejecutando. Se puede ajustar tocando los voltajes del procesador para que vaya a menos velocidad y asi reducir el consumo y la temperatura.
