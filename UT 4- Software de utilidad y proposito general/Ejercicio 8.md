@@ -1,0 +1,1 @@
+*En tu nuevo puesto de trabajo como informático en una empresa te encargan que redactes una serie de normas para proteger a los ordenadores personales de un posible malware. crea cinco normas de obligado cumplimiento que eviten que un equipo de la empresa se vea afecta por un malware.*
