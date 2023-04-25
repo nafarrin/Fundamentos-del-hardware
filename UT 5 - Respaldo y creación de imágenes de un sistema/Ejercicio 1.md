@@ -2,3 +2,7 @@
 
 
 #### *a) ¿Qué RAID propondrías y qué elementos serían necesarios?*
+
+#### *b) ¿Cuánto costaría implementar dicho  RAID?*
+
+
