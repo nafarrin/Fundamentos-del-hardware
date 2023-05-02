@@ -1,1 +1,2 @@
-*Un servidor Linux accede al disco de forma excesiva. ¿Qué verificarías como administrador de sistemas?*
+### *Un servidor Linux accede al disco de forma excesiva. ¿Qué verificarías como administrador de sistemas?*
+Lo primero es si el acceso de forma masiva es legítimo. Para ello necesitaremos saber e identificar dichos acceso. En caso de no serlo podemos estar delante de una infección mediante algún tipo de virus por lo que o bien matamos el proceso que consume recursos o bien empezamos un proceso de limpieza de virus.
